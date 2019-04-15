@@ -17,6 +17,17 @@ a {
     color: black;
 }
 
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: red;
+}
+
+a:active {
+    color: rgb(255, 223, 0);
+}
 /* ========================
     Header Styles
 =========================*/
