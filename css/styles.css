@@ -29,13 +29,19 @@ a:active {
     color: rgb(255, 223, 0);
 }
 
-a:active {
-    color: black;
-}
-
 li a:visited {
     color: black
 }
+
+li a:hover {
+    color: black;
+}
+
+li a:active {
+    color: rgb(255, 223, 0);
+}
+
+
 /* ========================
     Header Styles
 =========================*/
