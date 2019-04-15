@@ -12,6 +12,11 @@
     General Styles
 =========================*/
 
+a {
+    text-decoration: none;
+    color: black;
+}
+
 /* ========================
     Header Styles
 =========================*/
